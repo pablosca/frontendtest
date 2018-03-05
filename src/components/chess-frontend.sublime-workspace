@@ -1,0 +1,1232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"this",
+				"thisReadingGoal"
+			],
+			[
+				"displ",
+				"displayViews"
+			],
+			[
+				"cur",
+				"cur:d\tcursor:default"
+			],
+			[
+				"types",
+				"typesToFilter"
+			],
+			[
+				"change",
+				"changeCustomDate"
+			],
+			[
+				"chil",
+				"renderChildViews"
+			],
+			[
+				"measures",
+				"measuresByType"
+			],
+			[
+				"mea",
+				"measures"
+			],
+			[
+				"me",
+				"measures"
+			],
+			[
+				"last",
+				"lastItemOfType"
+			],
+			[
+				"series",
+				"seriesData"
+			],
+			[
+				"heart",
+				"heartRate"
+			],
+			[
+				"dias",
+				"diastolic"
+			],
+			[
+				"sys",
+				"systolicValue"
+			],
+			[
+				"dia",
+				"diastolicValue"
+			],
+			[
+				"al",
+				"alertMarker"
+			],
+			[
+				"data",
+				"dataSeries"
+			],
+			[
+				"high",
+				"highcharts-subtitle"
+			],
+			[
+				"media",
+				"media-breakpoint-up"
+			],
+			[
+				"radios",
+				"radiosInHead"
+			],
+			[
+				"rad",
+				"radiosInBody"
+			],
+			[
+				"shopp",
+				"shoppingCart"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"compiled",
+				"compiledCheckoutBar"
+			],
+			[
+				"hide",
+				"hideDropdown"
+			],
+			[
+				"mini",
+				"miniCartTimeout"
+			],
+			[
+				"toggle",
+				"toggleDropdown"
+			],
+			[
+				"toggl",
+				"toggleDropdown"
+			],
+			[
+				"get",
+				"getItemData"
+			],
+			[
+				"clone",
+				"cloneList"
+			],
+			[
+				"border-width",
+				"border-bottom-width"
+			],
+			[
+				"equal",
+				"equalHeightContainers"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"In",
+				"infocus"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/package.json",
+			"settings":
+			{
+				"buffer_size": 2235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/README.md",
+			"settings":
+			{
+				"buffer_size": 983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/.babelrc",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1 file for \"trial\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/index.html",
+			"settings":
+			{
+				"buffer_size": 280,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"pvr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PACKAGERE",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"h",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handlebar",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"andle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax less",
+				"Set Syntax: LESS"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Preferences: CSSLint Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/work/Projects/PERSONAL/chess-frontend-test",
+		"/Users/work/Projects/PERSONAL/chess-frontend-test/src"
+	],
+	"file_history":
+	[
+		"/Users/work/Projects/PERSONAL/chess-trial/src/components/HelloWorld.vue",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/core/resources/views/core/admin/partials/footer.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/admin/_modal.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/components/_horizontal-collapse.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/framework/_mixins.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/public-profile.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/framework/_variables.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/framework/_bootstrap.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/public-profile.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/components/_alerts.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/components/_alerts.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_public-profile.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/vendor/_rcswitcher.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/admin/_max-length-counter.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/components/_switcher.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/admin.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/profile/admin/panels/settings.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/base/_base.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/admin/_input-group-url.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Http/Routes/public.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/vendor/rcswitcher-4.0.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/mockups/profile.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/profile/admin/panels/name-and-email.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/vendor/_rcswitcher.min.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Http/Routes/admin.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Http/Controllers/Admin/UserController.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/vendor/rcswitcher-4.0.min.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/admin/partials/form-profile.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/components/_buttons.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/components/_cards.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/profile/admin/panels/out-of-office.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/profile/admin/panels/password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/admin/form.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/admin/panels/user.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/profile/admin/index.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/admin/partials/form-fields.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/admin/show.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/attachment/admin/index.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Http/Controllers/Admin/PatientCaseController.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/core/resources/views/core/admin/partials/account.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/core/resources/views/core/admin/partials/header.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Repositories/BackgroundRepository.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/modules/modal.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/modules/modalHideModal.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/views/register.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/condition/thankyou.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/admin/_expander.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/diagnosis/admin/index.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/components/_expander.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/register/register.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/register/modals/register.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/views/login.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_interface.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/en/emails.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/en/pages.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/register/partials/register-form.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/views/photos.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/modules/fileUpload.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/contact.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/condition/create.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/layouts/default.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/components/_labels.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/components/_inputs.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/register/partials/sign-form.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/register/modals/signin.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/en/errors.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/home.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/condition/billing.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/storage/logs/laravel-2018-01-31.log",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Listeners/SendContactEmailToAdmins.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/emails/admin/html/contact.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/followup/billing.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/index.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/case/admin/index.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/core/resources/views/core/public/partials/header.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/case/admin/show.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/views/registerThankyou.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/case/admin/panels/skin-condition.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Http/Requests/ContactRequest.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/layouts/partials/footer.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/emails/public/html/order.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/case/admin/panels/consult-info.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_modal.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/background.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/condition/background.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/followup/create.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/framework/_variables.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/dk/pages.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/layouts/partials/navbar.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/layouts/partials/head.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_navbar.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/important-notice.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/app/Http/Controllers/HomeController.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_footer.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/layouts/partials/maintenance-modal.blade.php",
+		"/Users/work/.homestead/Homestead.yaml",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_jumbo-with-image.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/modules/_csrf.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/vendor/esensi/user/dk/user.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/dk/condition.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/en/condition.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/lang/vendor/esensi/user/en/user.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/terms-and-conditions.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/modules/formValidation.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/public/views/billing.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/.env",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/new-password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/register/verify-email.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/scripts/modules/selectize.js",
+		"/Users/work/Projects/SkinDoctorOnline/site/storage/logs/laravel-2016-10-14.log",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/case/admin/modals/enter-diagnosis.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/public/reset-password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/storage/logs/laravel-2016-10-17.log",
+		"/Users/work/Projects/SkinDoctorOnline/site/package.json",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/diagnosis/admin/form.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/reset-password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/signin.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/views/user/public/forgot-password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/vendor/esensi/user/resources/views/users/public/emails/html/reset-password.blade.php",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/framework/_mixins.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/node_modules/bootstrap/scss/mixins/_grid.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/public/modules/_forms.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/node_modules/bootstrap/scss/_tables.scss",
+		"/Users/work/Projects/SkinDoctorOnline/site/resources/styles/admin/components/_diagnosis-actions.scss"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"/Users/work/Projects/PERSONAL/chess-frontend-test/static",
+			"/Users/work/Projects/PERSONAL/chess-frontend-test/src",
+			"/Users/work/Projects/PERSONAL/chess-frontend-test/config",
+			"/Users/work/Projects/PERSONAL/chess-frontend-test/build"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Seti_UI/icons/Langs/npm JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/.babelrc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"default_dir": "/Users/work/Projects/PERSONAL/chess-frontend-test",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/work/Projects/PERSONAL/chess-frontend-test/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "chess-frontend.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"resourcesviewspublic-profile.blade.php",
+				"resources/views/public-profile.blade.php"
+			],
+			[
+				"publicprofilescss",
+				"resources/styles/public/modules/_public-profile.scss"
+			],
+			[
+				"alerts.scss",
+				"resources/styles/public/components/_alerts.scss"
+			],
+			[
+				"alertsscss",
+				"resources/styles/components/_alerts.scss"
+			],
+			[
+				"publicprofilesc",
+				"resources/styles/public/modules/_public-profile.scss"
+			],
+			[
+				"name-and-email",
+				"resources/views/profile/admin/panels/name-and-email.blade.php"
+			],
+			[
+				"routesadmin.php",
+				"app/Http/Routes/admin.php"
+			],
+			[
+				"attachmentadminindex",
+				"resources/views/attachment/admin/index.blade.php"
+			],
+			[
+				"diagnosindex.blade",
+				"resources/views/diagnosis/admin/index.blade.php"
+			],
+			[
+				"thankyou.blade.php",
+				"resources/views/condition/thankyou.blade.php"
+			],
+			[
+				"pages.php",
+				"resources/lang/en/pages.php"
+			],
+			[
+				"interfacescss",
+				"resources/styles/public/modules/_interface.scss"
+			],
+			[
+				"modalregister",
+				"resources/views/register/modals/register.blade.php"
+			],
+			[
+				"register.js",
+				"resources/scripts/public/views/register.js"
+			],
+			[
+				"registerblade",
+				"resources/views/register/register.blade.php"
+			],
+			[
+				"register-form",
+				"resources/views/register/partials/register-form.blade.php"
+			],
+			[
+				"contact.blade.php",
+				"resources/views/contact.blade.php"
+			],
+			[
+				"partialssignform",
+				"resources/views/register/partials/sign-form.blade.php"
+			],
+			[
+				"modalsign",
+				"resources/views/register/modals/signin.blade.php"
+			],
+			[
+				"sign-form",
+				"resources/views/register/partials/sign-form.blade.php"
+			],
+			[
+				"registermoda",
+				"resources/views/register/modals/register.blade.php"
+			],
+			[
+				"register-form.blade",
+				"resources/views/register/partials/register-form.blade.php"
+			],
+			[
+				"thankyou",
+				"resources/views/condition/thankyou.blade.php"
+			],
+			[
+				"sign-form.blade.",
+				"resources/views/register/partials/sign-form.blade.php"
+			],
+			[
+				"index.blade.php",
+				"resources/views/index.blade.php"
+			],
+			[
+				"billingblade",
+				"resources/views/condition/billing.blade.php"
+			],
+			[
+				"header.blade",
+				"vendor/esensi/core/resources/views/core/public/partials/header.blade.php"
+			],
+			[
+				"registerth",
+				"resources/scripts/public/views/registerThankyou.js"
+			],
+			[
+				"contctblade",
+				"resources/views/contact.blade.php"
+			],
+			[
+				"contact",
+				"resources/views/emails/admin/html/contact.blade.php"
+			],
+			[
+				"footer.blade",
+				"resources/views/layouts/partials/footer.blade.php"
+			],
+			[
+				"caseadminshow",
+				"resources/views/case/admin/show.blade.php"
+			],
+			[
+				"footerblade",
+				"resources/views/layouts/partials/footer.blade.php"
+			],
+			[
+				"background.blade.php",
+				"resources/views/user/public/background.blade.php"
+			],
+			[
+				"create",
+				"resources/views/condition/create.blade.php"
+			],
+			[
+				"thankyou.blade",
+				"resources/views/condition/thankyou.blade.php"
+			],
+			[
+				"variables.scss",
+				"resources/styles/public/framework/_variables.scss"
+			],
+			[
+				"enter-diagnosis",
+				"resources/views/case/admin/modals/enter-diagnosis.blade.php"
+			],
+			[
+				"vendoresensiresource",
+				"vendor/esensi/core/src/Traits/ResourceControllerTrait.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"resourcesstylesfooter",
+				"resources/styles/public/modules/_footer.scss"
+			],
+			[
+				"layoutdef",
+				"resources/views/layouts/default.blade.php"
+			],
+			[
+				"enter-dia",
+				"resources/views/case/admin/modals/enter-diagnosis.blade.php"
+			],
+			[
+				"enter-di",
+				"resources/views/case/admin/modals/enter-diagnosis.blade.php"
+			],
+			[
+				"node_modulesbootstrapscssinput",
+				"node_modules/bootstrap/scss/_input-group.scss"
+			],
+			[
+				"node_modulesjasny",
+				"node_modules/jasny-bootstrap/scss/jasny-bootstrap.scss"
+			],
+			[
+				"vendoresensiuseractions",
+				"vendor/esensi/user/resources/views/users/admin/partials/actions.blade.php"
+			],
+			[
+				"vendoresensimodal",
+				"vendor/esensi/core/resources/views/core/admin/modal.blade.php"
+			],
+			[
+				"dropdown.blade.php",
+				"resources/views/case/admin/partials/dropdown.blade.php"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"pacakg",
+				"package.json"
+			],
+			[
+				"blueimp-gallery.css",
+				"node_modules/blueimp-gallery/css/blueimp-gallery.css"
+			],
+			[
+				"node_modulesblue-imp",
+				"node_modules/blueimp-gallery/css/blueimp-gallery.min.css.map"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"resourcesscripts",
+				"resources/scripts/admin.js"
+			],
+			[
+				"pictures-list",
+				"resources/styles/components/_pictures-list.scss"
+			],
+			[
+				"node_modulesbootstrapvariables",
+				"node_modules/bootstrap/scss/_variables.scss"
+			],
+			[
+				"node_modules/bootstrap/scss/pri",
+				"node_modules/bootstrap/scss/_print.scss"
+			],
+			[
+				"node_modulesbootstrapmedia",
+				"node_modules/bootstrap/scss/_media.scss"
+			],
+			[
+				"efc0cb8e6033d234f8",
+				"storage/framework/views/4efc0cb8e6033d234f8c396250075636"
+			],
+			[
+				"dragareas.js",
+				"node_modules/argparse/lib/argument_parser.js"
+			],
+			[
+				"node_modulesbootstrapscssbutton",
+				"node_modules/bootstrap/scss/_buttons.scss"
+			],
+			[
+				"node_modulesbootstramixinbu",
+				"node_modules/bootstrap/scss/mixins/_buttons.scss"
+			],
+			[
+				"bootstrapmixingrid",
+				"node_modules/bootstrap/scss/mixins/_grid.scss"
+			],
+			[
+				"node_modules/bootstrapgrid",
+				"node_modules/bootstrap/scss/_grid.scss"
+			],
+			[
+				"package.js",
+				"package.json"
+			],
+			[
+				"bootstrapbutton",
+				"node_modules/bootstrap/scss/_buttons.scss"
+			],
+			[
+				"bootstrapmixinsbutton",
+				"node_modules/bootstrap/scss/mixins/_buttons.scss"
+			],
+			[
+				"icons.scss",
+				"resources/styles/public/components/_icons.scss"
+			],
+			[
+				"bootstrapmixinlist",
+				"node_modules/bootstrap/scss/mixins/_lists.scss"
+			],
+			[
+				"bootstrapmixin",
+				"node_modules/bootstrap/scss/_mixins.scss"
+			],
+			[
+				"bootstrapvariables",
+				"node_modules/bootstrap/scss/_variables.scss"
+			],
+			[
+				"/bootstrap/",
+				"node_modules/bootstrap/README.md"
+			],
+			[
+				"bootstrapmixi",
+				"node_modules/bootstrap/scss/_mixins.scss"
+			],
+			[
+				"bootstrap/mixin",
+				"node_modules/bootstrap/scss/_mixins.scss"
+			],
+			[
+				"publicvariable",
+				"resources/styles/public/framework/_variables.scss"
+			],
+			[
+				"media",
+				"node_modules/bootstrap-datetimepicker/node_modules/bootstrap/less/media.less"
+			],
+			[
+				"dashboardfee",
+				"Ideal Life/resources/scripts/public/Dashboard/templates/dashboardFeed.jst"
+			],
+			[
+				"layout.jst",
+				"Ideal Life/resources/scripts/public/DetailChart/templates/layout.jst"
+			],
+			[
+				"date-picker",
+				"Ideal Life/resources/styles/public/components/_date-picker.scss"
+			],
+			[
+				"date-picker.scss",
+				"Ideal Life/resources/styles/public/components/_date-picker.scss"
+			],
+			[
+				"dashboardfeed",
+				"Ideal Life/resources/scripts/public/Dashboard/templates/dashboardFeed.jst"
+			],
+			[
+				"sidebar.blade",
+				"Ideal Life/resources/views/layouts/partials/sidebar.blade.php"
+			],
+			[
+				"no-results",
+				"Ideal Life/resources/styles/public/components/_no-results.scss"
+			],
+			[
+				"footer.b",
+				"Ideal Life/resources/views/checkout/partials/footer.blade.php"
+			],
+			[
+				"footer",
+				"Ideal Life/resources/styles/checkout/components/_footer.scss"
+			],
+			[
+				"checkout/main.scs",
+				"Ideal Life/resources/styles/checkout/main.scss"
+			],
+			[
+				"widgetbox",
+				"Ideal Life/resources/scripts/public/Dashboard/views/widgetBox.js"
+			],
+			[
+				"hand",
+				"Ideal Life/vendor/league/flysystem/src/Handler.php"
+			],
+			[
+				"home/index",
+				"Ideal Life/resources/views/home/index.blade.php"
+			],
+			[
+				"profilescss",
+				"Ideal Life/resources/styles/public/components/_profile.scss"
+			],
+			[
+				"router.js",
+				"Ideal Life/resources/scripts/public/BloodPressure/router.js"
+			],
+			[
+				"rou",
+				"Ideal Life/node_modules/express/lib/router/route.js"
+			],
+			[
+				"build.json",
+				"Ideal Life/config/build.json"
+			],
+			[
+				"_equalhe",
+				"scripts/_modules/_equalHeights.js"
+			],
+			[
+				"common-box",
+				"styles/_elements/_common-box.less"
+			],
+			[
+				"mixins",
+				"node_modules/font-awesome/less/mixins.less"
+			],
+			[
+				"font",
+				"node_modules/font-awesome/less/font-awesome.less"
+			],
+			[
+				"_search",
+				"Code/mptv-app/resources/styles/public/_elements/_search-box.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/SublimeProjects/siterocket.sublime-project"
+			],
+			[
+				"subside",
+				"~/Projects/SublimeProjects/subsidease.sublime-project"
+			],
+			[
+				"subs",
+				"~/Projects/SublimeProjects/subsidease.sublime-project"
+			],
+			[
+				"ideal",
+				"~/Projects/SublimeProjects/IdealLife.sublime-project"
+			],
+			[
+				"emerson",
+				"~/Projects/SublimeProjects/emersonmedia.sublime-project"
+			],
+			[
+				"web",
+				"~/Projects/SublimeProjects/webpack-static.sublime-project"
+			],
+			[
+				"em",
+				"~/Projects/SublimeProjects/emersonmedia.sublime-project"
+			],
+			[
+				"mptv",
+				"~/Projects/SublimeProjects/mptv-app.sublime-project"
+			],
+			[
+				"static",
+				"~/Projects/SublimeProjects/static-site.sublime-project"
+			],
+			[
+				"bo",
+				"~/Projects/SublimeProjects/bostonorganics.sublime-project"
+			],
+			[
+				"fr",
+				"~/Projects/SublimeProjects/frontier-science.sublime-project"
+			],
+			[
+				"frontier",
+				"~/Projects/SublimeProjects/frontier-science.sublime-project"
+			],
+			[
+				"fro",
+				"~/Projects/SublimeProjects/frontier-science.sublime-project"
+			],
+			[
+				"emer",
+				"~/Projects/SublimeProjects/emersonmedia.sublime-project"
+			],
+			[
+				"emerso",
+				"~/Projects/SublimeProjects/emersonmedia.sublime-project"
+			],
+			[
+				"mptv-app",
+				"~/Projects/SublimeProjects/mptv-app.sublime-project"
+			],
+			[
+				"bos",
+				"~/Projects/SublimeProjects/bostonorganics.sublime-project"
+			],
+			[
+				"storage",
+				"~/Projects/SublimeProjects/storage-guardian-landing.sublime-project"
+			],
+			[
+				"stora",
+				"~/Projects/SublimeProjects/storage-guardian-landing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

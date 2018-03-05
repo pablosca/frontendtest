@@ -1,20 +1,21 @@
-# Chess.com - Front End Programming Challenge
+> A Vue.js project
 
-Welcome to the [Chess.com](https://chess.com) front end programming challenge!
+Test it here: https://chess-frontend-test.firebaseapp.com/
 
-# Instructions
-1. Fork this repository.
-2. Create a VueJS application that satisfies the requirements detailed below.
-3. Provide links to your fork of this repository and a live demo of your application.
+## Build Setup
 
-# Application Requirements
-1. Create a page with a chessboard and a sidebar.
-2. On desktop devices the sidebar should be positioned to the right of the sidebar.
-3. On mobile devices the sidebar should be positioned below the chessboard.
-4. The chessboard should resize responsively to consume available space.
-5. Clicking a chessboard square should highlight the square.
-6. Keep track of which squares are clicked and the order in which they're clicked.
-7. Display the information collected from step 6 in the sidebar.
+``` bash
+# install dependencies
+npm install
 
-# Questions & Feedback
-Please contact Chuck Haines (chaines@gmail.com) with any questions or feedback regarding this challenge.
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
